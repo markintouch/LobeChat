@@ -2,6 +2,89 @@
 
 # Changelog
 
+### [Version 1.96.12](https://github.com/lobehub/lobe-chat/compare/v1.96.11...v1.96.12)
+
+<sup>Released on **2025-06-30**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Pin `antd@5.26.2` to fix build error.
+
+#### 💄 Styles
+
+- **misc**: Add DeepResearch models from OpenAI.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Pin `antd@5.26.2` to fix build error, closes [#8303](https://github.com/lobehub/lobe-chat/issues/8303) ([44b6b01](https://github.com/lobehub/lobe-chat/commit/44b6b01))
+
+#### Styles
+
+- **misc**: Add DeepResearch models from OpenAI, closes [#8291](https://github.com/lobehub/lobe-chat/issues/8291) ([87a5cbc](https://github.com/lobehub/lobe-chat/commit/87a5cbc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.96.11](https://github.com/lobehub/lobe-chat/compare/v1.96.10...v1.96.11)
+
+<sup>Released on **2025-06-28**</sup>
+
+#### 🐛 Bug Fixes
+
+- **mermaid**: Firefox mermaid show error.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **mermaid**: Firefox mermaid show error, closes [#8270](https://github.com/lobehub/lobe-chat/issues/8270) ([d9c5e7b](https://github.com/lobehub/lobe-chat/commit/d9c5e7b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.96.10](https://github.com/lobehub/lobe-chat/compare/v1.96.9...v1.96.10)
+
+<sup>Released on **2025-06-28**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix desktop chunk issue.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix desktop chunk issue, closes [#8280](https://github.com/lobehub/lobe-chat/issues/8280) ([c193e65](https://github.com/lobehub/lobe-chat/commit/c193e65))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.96.9](https://github.com/lobehub/lobe-chat/compare/v1.96.8...v1.96.9)
 
 <sup>Released on **2025-06-23**</sup>
