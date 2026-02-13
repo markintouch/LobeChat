@@ -1,16 +1,14 @@
 name: Upstream Sync
 
+on:
+  schedule:
+    - cron: '0 0 * * *' # every 6 hours
+  workflow_dispatch:
 permissions:
   contents: write
   issues: write
   actions: write
   workflows: write
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # every 6 hours
-  workflow_dispatch:
-
 jobs:
   sync_latest_from_upstream:
     name: Sync latest commits from upstream repo
